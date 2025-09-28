@@ -21,10 +21,10 @@ Ejemplo de ejecución:
 - Ejemplos de recursividad en Java: https://www.geeksforgeeks.org/recursion-in-java/  
 
 
- Consultas a Chatbots de IA
-- Prompt utilizado en ChatGPT:  
+ Consultas a Google 
+- Prompt utilizado en Google:  
   Cómo utilizar git hub.  
-  Respuesta resumida:Explicación breve de como hacerlo
+  Respuesta resumida:Explicación breve de como hacerlo y sus pasos y tambien se investigo sobre las preguntas 
 
 
  Preguntas
