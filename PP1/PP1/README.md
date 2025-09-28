@@ -8,8 +8,8 @@ Carné:F124038179
 
 
 
-## Descripción
-Este proyecto implementa un programa en Java llamado **Inverso**, el cual recibe un número natural como argumento y muestra dicho número junto con su inverso, utilizando un algoritmo **recursivo** basado en la división entera (cociente y residuo).
+Descripción
+Este proyecto implementa un programa en Java llamado Inverso, el cual recibe un número natural como argumento y muestra dicho número junto con su inverso, utilizando un algoritmo **recursivo** basado en la división entera (cociente y residuo).
 
 Ejemplo de ejecución:
 $ java Inverso 123
