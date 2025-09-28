@@ -9,7 +9,7 @@ Carné:F124038179
 
 
 Descripción
-Este proyecto implementa un programa en Java llamado Inverso, el cual recibe un número natural como argumento y muestra dicho número junto con su inverso, utilizando un algoritmo **recursivo** basado en la división entera (cociente y residuo).
+Este proyecto implementa un programa en Java llamado Inverso, el cual recibe un número natural como argumento y muestra dicho número junto con su inverso, utilizando un algoritmo recursivo basado en la división entera (cociente y residuo).
 
 Ejemplo de ejecución:
 $ java Inverso 123
@@ -23,7 +23,7 @@ $ java Inverso 123
 
  Consultas a Chatbots de IA
 - Prompt utilizado en ChatGPT:  
-  *"Cómo utilizar git hub.  
+  Cómo utilizar git hub.  
   Respuesta resumida:Explicación breve de como hacerlo
 
 
