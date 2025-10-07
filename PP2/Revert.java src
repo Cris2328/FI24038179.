@@ -32,6 +32,6 @@ public class Revert {
             System.err.println("Error al escribir el archivo: " + e.getMessage());
         }
 
-        System.out.println("✅ Archivo invertido correctamente en: " + outputFile);
+        System.out.println(" Archivo invertido correctamente en: " + outputFile);
     }
 }
